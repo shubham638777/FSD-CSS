@@ -1,0 +1,75 @@
+/* a[target="_top"]{
+    background-color: red;
+}
+div[data-color]{
+    color:red
+}
+
+div[data-color-value="yellow"]{
+    color:yellow
+}
+
+[class*="foo"]{
+    color:silver
+}
+
+[class~="color123"]{
+    color:goldenrod
+}
+
+[class^="color69"]{
+    color:pink
+}
+
+[class$="world"]{
+    color:orange
+}
+
+a[target="_self"]{
+    background-color: yellow;
+}
+a[target="_parent"]{
+    background-color: green;
+}
+.class1 .class2{
+    background-color: aqua;
+}
+.class1.class2{
+    background-color: orange;
+    align-content: center;
+}
+.class3 .class1.class2{
+    background-color: red;
+}
+
+body{
+    color: purple;
+} */
+
+/* div span{
+    color: red;
+} */
+
+/* div>span{
+    color: red;
+} */
+
+/* .important{
+    color: red;
+}
+
+.warning{
+    color: blue;
+}
+
+.important.warning{
+    color: orange;
+} */
+
+/* p:last-of-type{
+    background-color: red;
+}
+
+h1:last-of-type{
+    background-color: blue;
+} */
